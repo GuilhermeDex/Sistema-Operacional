@@ -19,7 +19,7 @@ make
 Execute o arquivo final:
 
 ```bash
-./kitboom -k kit_file.txt -c config_file.txt
+./jogar
 ```
 
 &nbsp;
